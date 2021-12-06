@@ -11,6 +11,6 @@ Features:
 * Customizable settings.
   
 Future changes:
-* Add two-player mode
-* Optimize the menu system
+* Optimize the menu system.
+* Two-player mode.
 * and so on...
