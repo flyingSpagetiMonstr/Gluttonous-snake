@@ -1,5 +1,5 @@
 # Gluttonous-snake  
-## Main files: Snake.c & Snake.h\\
+### Main files: Snake.c & Snake.h
 Notice:
 * The programe is currently quite unsatisfying.
 * Update and optimization is under way.
