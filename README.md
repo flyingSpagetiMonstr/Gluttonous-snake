@@ -1,13 +1,16 @@
-# Gluttonous-snake  
+# Gluttonous-snake
+
+This repo is the final project for a lecture on C which I took during my freshman year.
+It's a classic game, snake, and it runs in CMD on windows.
+
 ### Main files: Snake.c & Snake.h
 Notice:
-* The programe is currently quite unsatisfying.
-* Update and optimization is under way.
+* The code is not quite neat currently, update and optimization is under way.
   
 Features:
 * A mutifunctional start menu.
-* Bomb mode.
-* Colored.
+* Bombs.
+* Colors.
 * Customizable settings.
   
 Future changes:
