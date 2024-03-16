@@ -1,4 +1,4 @@
-# Gluttonous-snake
+# Snake
 
 This repo is the final project for a lecture on C which I took during my freshman year.
 It's a classic game, snake, and it runs in CMD on windows.
