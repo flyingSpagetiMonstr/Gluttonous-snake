@@ -1,19 +1,12 @@
 # Snake
-
-This repo is the final project for a lecture on C which I took during my freshman year.
-It's a classic game, snake, and it runs in CMD on windows.
+The classic game, snake, runs in CLI on windows.
 
 ### Main files: Snake.c & Snake.h
 Notice:
-* The code is not quite neat currently, update and optimization is under way.
+* Bad code since no more time.
   
 Features:
 * A mutifunctional start menu.
 * Bombs.
 * Colors.
 * Customizable settings.
-  
-Future changes:
-* Optimize the menu system.
-* Two-player mode.
-* and so on...
